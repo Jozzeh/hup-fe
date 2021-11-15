@@ -1,0 +1,23 @@
+.error {
+  color: red;
+}
+
+.flexpage {
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #8fbcff;
+}
+
+.loginsection {
+  max-width: 500px;
+  margin: 24px;
+  padding: 24px;
+  border: solid 1px #fff;
+  border-radius: 12px;
+  background-color: #fff;
+  -webkit-box-shadow: 0px 0px 45px 13px rgba(0,0,0,0.36); 
+  box-shadow: 0px 0px 45px 13px rgba(0,0,0,0.36);
+}

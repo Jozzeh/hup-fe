@@ -1,0 +1,19 @@
+.outer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.inner {
+  width: 100%;
+  max-width: 900px;
+  padding: 0 24px;
+  margin: 0 24px;
+}
+
+.white {
+  background-color: white;
+  -webkit-box-shadow: 0px -13px 21px -1px rgba(0,0,0,0.45); 
+  box-shadow: 0px -13px 21px -1px rgba(0,0,0,0.45);
+  padding: 24px;
+}

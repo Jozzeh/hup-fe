@@ -1,0 +1,20 @@
+.inputdiv {
+  margin-bottom: 12px;
+}
+.inputlabel {
+  width: 100%;
+  margin-bottom: 2px;
+}
+
+.inputfield {
+  width: 100%;
+  border: solid 1px #aaa;
+  border-radius: 4px;
+  padding: 8px 12px;
+}
+.inputfield:hover {
+  border: solid 1px #666;
+}
+.inputfield:focus {
+  border: solid 1px #333;
+}
